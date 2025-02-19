@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tiktokClone/static/css/main.f57be719.css",
-    "main.js": "/tiktokClone/static/js/main.63066599.js",
+    "main.js": "/tiktokClone/static/js/main.eb031466.js",
     "static/js/488.4fd72aa0.chunk.js": "/tiktokClone/static/js/488.4fd72aa0.chunk.js",
     "static/media/video2.mp4": "/tiktokClone/static/media/video2.bf29b1e8df66bb0212a1.mp4",
     "static/media/video1.mp4": "/tiktokClone/static/media/video1.db31882008ade5eac8a9.mp4",
@@ -11,11 +11,11 @@
     "static/media/social-media-icon.png": "/tiktokClone/static/media/social-media-icon.682a64f1b48d5982a2a1.png",
     "index.html": "/tiktokClone/index.html",
     "main.f57be719.css.map": "/tiktokClone/static/css/main.f57be719.css.map",
-    "main.63066599.js.map": "/tiktokClone/static/js/main.63066599.js.map",
+    "main.eb031466.js.map": "/tiktokClone/static/js/main.eb031466.js.map",
     "488.4fd72aa0.chunk.js.map": "/tiktokClone/static/js/488.4fd72aa0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f57be719.css",
-    "static/js/main.63066599.js"
+    "static/js/main.eb031466.js"
   ]
 }
