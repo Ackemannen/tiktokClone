@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tiktokClone/static/css/main.f57be719.css",
+    "main.js": "/tiktokClone/static/js/main.63066599.js",
+    "static/js/488.4fd72aa0.chunk.js": "/tiktokClone/static/js/488.4fd72aa0.chunk.js",
+    "static/media/video2.mp4": "/tiktokClone/static/media/video2.bf29b1e8df66bb0212a1.mp4",
+    "static/media/video1.mp4": "/tiktokClone/static/media/video1.db31882008ade5eac8a9.mp4",
+    "static/media/video3.mp4": "/tiktokClone/static/media/video3.d4ee01354aecb542812e.mp4",
+    "static/media/video4.mp4": "/tiktokClone/static/media/video4.49dffc66542f7ef1be08.mp4",
+    "static/media/profile-pic.jpg": "/tiktokClone/static/media/profile-pic.24e6d18902019ac1e2b5.jpg",
+    "static/media/social-media-icon.png": "/tiktokClone/static/media/social-media-icon.682a64f1b48d5982a2a1.png",
+    "index.html": "/tiktokClone/index.html",
+    "main.f57be719.css.map": "/tiktokClone/static/css/main.f57be719.css.map",
+    "main.63066599.js.map": "/tiktokClone/static/js/main.63066599.js.map",
+    "488.4fd72aa0.chunk.js.map": "/tiktokClone/static/js/488.4fd72aa0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f57be719.css",
+    "static/js/main.63066599.js"
+  ]
+}
